@@ -1,5 +1,6 @@
 # NYCU Data Mining(Spring 2026) Assignment 1
-You can fork this repository
+- Student ID:　314551087
+- Name: 黃奕睿
 
 ## File Structure
 
