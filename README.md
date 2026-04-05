@@ -1,5 +1,5 @@
 # NYCU Data Mining(Spring 2026) Assignment 1
-- Student ID:　314551087
+- Student ID: 314551087
 - Name: 黃奕睿
 
 ## File Structure
